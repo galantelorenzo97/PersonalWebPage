@@ -1,10 +1,12 @@
-//import React from 'react';
-//import logo from './logo.svg';
+//Components
 import HelloWorld from "./HelloWorld";
+import Container from 'react-bootstrap/Container';
 
 function App() {
   return (
-    <HelloWorld />
+    <Container fluid>
+      <HelloWorld />
+    </Container>
   );
 }
 
