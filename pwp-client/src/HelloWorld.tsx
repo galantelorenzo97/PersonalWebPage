@@ -1,6 +1,3 @@
-//Stylesheets
-import './styles/App.css';
-
 //Components
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
