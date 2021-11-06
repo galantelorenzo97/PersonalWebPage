@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@700&family=VT323&display=swap');
+
+/*
+    CSS Rules to specify text
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'VT323', monospace;
+*/
+
+.IBM-Plex-Mono {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.VT323 {
+    font-family: 'VT323', monospace;
+}
