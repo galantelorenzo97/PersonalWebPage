@@ -16,3 +16,11 @@ https://superuser.com/questions/361297/what-colour-is-the-dark-green-on-old-fash
 .monochrome-green {
   color: var(--monochrome-green);
 }
+
+.retrowave-blue {
+  color: var(--retrowave-blue) !important;
+}
+
+.retrowave-magenta {
+  color: var(--retrowave-magenta);
+}
